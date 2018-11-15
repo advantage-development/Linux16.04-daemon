@@ -1,5 +1,5 @@
 # Welcome to the Advantage Daemon Download Page for Linux
-# the Daemon is a Convenient Non-GUI Interface Used to Set-up Masternodes 
+# the Daemon is a Non-GUI Interface Used to Set-up Masternodes 
 
 
 Instructions:
@@ -29,3 +29,5 @@ sudo apt-get install libzmq3-dev
 sudo apt-get install libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libprotobuf-dev protobuf-compiler
  
 sudo apt-get install libqt4-dev libprotobuf-dev protobuf-compiler
+
+2. Download daemon using: git clone https://github.com/advantage-development/linux16.04-daemon
