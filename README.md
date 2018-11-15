@@ -4,7 +4,7 @@
 
 Instructions:
 
-1. Install dependencies
+Install dependencies:
 
  sudo apt-get install git
  
