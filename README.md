@@ -1,5 +1,5 @@
-# Welcome to the Advantage Daemon Download Page for Linux
-# the Daemon is a Non-GUI Interface Used to Set-up Masternodes 
+# Welcome to the Advantage Daemon Download for Linux
+# the Daemon is a Non-GUI Interface Used to for Masternodes 
 
 
 Instructions:
