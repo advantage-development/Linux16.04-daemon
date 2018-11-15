@@ -44,6 +44,7 @@ sudo apt-get install libqt4-dev libprotobuf-dev protobuf-compiler
  sudo ufw status
  5. type cd .Advantage && nano Advantage.conf
  6. type in the following details:
+ 
   server=1
   
   rpcuser=yourusername
