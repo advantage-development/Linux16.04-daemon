@@ -43,14 +43,23 @@ sudo apt-get install libqt4-dev libprotobuf-dev protobuf-compiler
  sudo ufw enable
  sudo ufw status
  5. type cd .Advantage && nano Advantage.conf
- 6. type in the following details
- 
+ 6. type in the following details:
   server=1
+  
   rpcuser=yourusername
+  
   rpcpassword=yourpassword
+  
   rpcport=53211
+  
   listen=1
+  
   server=1
+  
   daemon=1
+  
   logtimestamps=1
+  
   maxconnections=256
+  
+  press ctrl+x to save and exit
